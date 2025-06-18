@@ -1,0 +1,1 @@
+<img src="/logo.svg" alt="Mango" class="w-20 h-20">
